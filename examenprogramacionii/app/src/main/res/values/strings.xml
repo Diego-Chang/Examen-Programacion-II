@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">examen-programacion-ii</string>
+    <string name="home_title">Medidas Registradas</string>
+    <string name="add_register_title">Añadir Registro</string>
+    <string name="button_meter">Medidor</string>
+    <string name="button_date">Fecha</string>
+    <string name="label_meter_type">Medidor de:</string>
+    <string name="add_button">Registrar Medida</string>
+    <string name="type_1_gas">Gas</string>
+    <string name="type_2_water">Agua</string>
+    <string name="type_3_elec">Luz</string>
+</resources>

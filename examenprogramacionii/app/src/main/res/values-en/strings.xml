@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">programming-ii-exam</string>
+    <string name="home_title">Registered Measurements</string>
+    <string name="add_register_title">Add Register</string>
+    <string name="button_meter">Meter</string>
+    <string name="button_date">Date</string>
+    <string name="label_meter_type">Meter type:</string>
+    <string name="add_button">Register Measurement</string>
+    <string name="type_1_gas">Gas</string>
+    <string name="type_2_water">Water</string>
+    <string name="type_3_elec">Elec.</string>
+</resources>
